@@ -1,0 +1,11 @@
+D:\Projects\RabbitCrawler\RabbitCrawler\bin\Debug\netcoreapp2.1\RabbitCrawler.deps.json
+D:\Projects\RabbitCrawler\RabbitCrawler\bin\Debug\netcoreapp2.1\RabbitCrawler.runtimeconfig.json
+D:\Projects\RabbitCrawler\RabbitCrawler\bin\Debug\netcoreapp2.1\RabbitCrawler.runtimeconfig.dev.json
+D:\Projects\RabbitCrawler\RabbitCrawler\bin\Debug\netcoreapp2.1\RabbitCrawler.dll
+D:\Projects\RabbitCrawler\RabbitCrawler\obj\Debug\netcoreapp2.1\RabbitCrawler.csprojAssemblyReference.cache
+D:\Projects\RabbitCrawler\RabbitCrawler\obj\Debug\netcoreapp2.1\RabbitCrawler.csproj.CoreCompileInputs.cache
+D:\Projects\RabbitCrawler\RabbitCrawler\obj\Debug\netcoreapp2.1\RabbitCrawler.AssemblyInfoInputs.cache
+D:\Projects\RabbitCrawler\RabbitCrawler\obj\Debug\netcoreapp2.1\RabbitCrawler.AssemblyInfo.cs
+D:\Projects\RabbitCrawler\RabbitCrawler\bin\Debug\netcoreapp2.1\RabbitCrawler.pdb
+D:\Projects\RabbitCrawler\RabbitCrawler\obj\Debug\netcoreapp2.1\RabbitCrawler.dll
+D:\Projects\RabbitCrawler\RabbitCrawler\obj\Debug\netcoreapp2.1\RabbitCrawler.pdb
